@@ -28,6 +28,7 @@ class MainActivity : AppCompatActivity() {
         })
 
 
+       // git remote set-url origin https://Kunal-Dhanwant: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@github.com/Kunal-Dhanwant/Conduit-Android-Kotlin.git
 
     }
 }
